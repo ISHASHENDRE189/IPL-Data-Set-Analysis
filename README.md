@@ -30,7 +30,7 @@ link to data sset : /kaggle/input/ipl-data-set
 - Matplotlib
 - Seaborn
 
-##Usage
+## Usage
 
 Through visualizations and trend predictions, this project enhances the understanding of the Indian Premier League, offering a comprehensive tool for cricket data enthusiasts and stakeholders.
 
