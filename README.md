@@ -9,7 +9,7 @@ This repository contains code and analysis for the Indian Premier League (IPL) d
 
 - [Introduction](#introduction)
 - [Data Sources](#data-sources)
-  [Technology Used](#technology used)
+- [Technology Used](#technology used)
 - [Usage](#usage)
 - [Analysis](#analysis)
 
@@ -30,8 +30,11 @@ link to data sset : /kaggle/input/ipl-data-set
 - Matplotlib
 - Seaborn
 
+##Usage
 
-## Analysi
+Through visualizations and trend predictions, this project enhances the understanding of the Indian Premier League, offering a comprehensive tool for cricket data enthusiasts and stakeholders.
+
+## Analysis
 
 Data from 2008 - 2019 
 winner Analysis
