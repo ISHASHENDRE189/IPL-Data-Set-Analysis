@@ -9,7 +9,7 @@ This repository contains code and analysis for the Indian Premier League (IPL) d
 
 - [Introduction](#introduction)
 - [Data Sources](#data-sources)
-- [Technology Used](#technology used)
+- [Technology_Used](#technology-used)
 - [Usage](#usage)
 - [Analysis](#analysis)
 
